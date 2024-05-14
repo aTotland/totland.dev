@@ -1,0 +1,23 @@
+{
+  "name": "totland.dev",
+  "version": "1.0.0",
+  "description": "totland.dev home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aTotland/totland.dev.git"
+  },
+  "keywords": [
+    "totland.dev",
+    "homepage"
+  ],
+  "author": "A. Totland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aTotland/totland.dev/issues"
+  },
+  "homepage": "https://github.com/aTotland/totland.dev#readme"
+}
