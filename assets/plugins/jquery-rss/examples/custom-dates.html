@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>jquery.rss accordion example</title>
@@ -8,8 +8,8 @@
     <script src="../src/jquery.rss.js"></script>
 
     <script>
-      jQuery(function($) {
-        $("#rss-feeds").rss("http://feeds.feedburner.com/dawanda", {
+      jQuery(function ($) {
+        $('#rss-feeds').rss('http://feeds.feedburner.com/dawanda', {
           entryTemplate: '<li>[{date}] {title}</li>',
           dateFormat: 'ddd, DD MMM YYYY'
         })
