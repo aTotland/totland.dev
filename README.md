@@ -1,5 +1,3 @@
-[![Validated HTML5 and CSS](https://github.com/hossain-khan/totland.dev/workflows/Validate/badge.svg)](https://github.com/hossain-khan/totland.dev/actions)
-
 # totland.dev
 
 Static site for [totland.dev](http://totland.dev/)
